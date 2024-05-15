@@ -1,7 +1,5 @@
-Ami
-Haasmot
-Kalam
-Robi
-Azam
-Ajad
-Sadhin
+Bangla
+English
+Math
+Social Science
+ICT
